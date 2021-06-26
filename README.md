@@ -36,5 +36,5 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <p align="center">
 <a href="https://urieldev.tech/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.urieldev.tech-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/urielgui/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@urielgui-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:urieligara@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-urieligara@hotmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:contato@urieldev.tech"><img alt="Email" src="https://img.shields.io/badge/Email-contato@urieldev.tech-blue?style=flat&logo=gmail"></a>
 </p>
