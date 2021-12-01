@@ -11,7 +11,7 @@
 
 <div>
  <p>
-I am a junior full stack JavaScript programmer, able to build a complete web or mobile application. I had my first impression with web development at the end of 2013. Moved by curiosity, I ventured as a freelancer on the front-end in 2014, where I developed and edited website templates until mid 2018. In January 2020, I decided to finally start mine journey to become a professional in the area, improving what I already knew and learning many other new things.
+I am a full stack JavaScript programmer, able to build a complete web or mobile application. I had my first impression with web development at the end of 2013. Moved by curiosity, I ventured as a freelancer on the front-end in 2014, where I developed and edited website templates until mid 2018. In January 2020, I decided to finally start mine journey to become a professional in the area, improving what I already knew and learning many other new things.
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
